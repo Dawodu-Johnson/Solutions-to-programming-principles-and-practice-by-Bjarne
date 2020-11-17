@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589833139 source:c:\users\johnson\desktop\new folder\c++ calc program\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+
+1598420819 source:c:\users\johnson\desktop\new folder\bjarne chapter 6\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+

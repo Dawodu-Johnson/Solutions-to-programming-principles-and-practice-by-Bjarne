@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590407573 source:c:\users\johnson\desktop\new folder\bjarne chapter 7\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<stdexcept>
+	<math.h>
+

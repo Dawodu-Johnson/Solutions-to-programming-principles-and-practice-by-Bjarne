@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602054336 source:c:\users\hp\desktop\desktop\new folder\bjarne chapter 10\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

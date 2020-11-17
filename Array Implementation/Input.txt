@@ -1,0 +1,16 @@
+FACULTY
+U12345678
+Smith,john
+Associate Professor
+STUDENT
+U12345611
+Jones,jan
+Computer Science
+FACULTY
+U12345689
+Black,jeanne
+Assistant Professor
+STUDENT
+U12345622
+Green,James
+Astronomy

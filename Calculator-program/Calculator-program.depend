@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1598430314 source:c:\users\johnson\desktop\new folder\calculator-program\main.cpp
+	<iostream>
+	<string.h>
+	"Caculator-header.h"
+	"Calculator-definition.cpp"
+
+1598789074 c:\users\johnson\desktop\new folder\calculator-program\caculator-header.h
+
+1598789019 c:\users\johnson\desktop\new folder\calculator-program\calculator-definition.cpp
+	<iostream>
+	<string.h>
+	<vector>
+	"Caculator-header.h"
+
+1600540835 source:c:\users\hp\desktop\desktop\new folder\calculator-program\main.cpp
+	<iostream>
+	<string.h>
+	"Caculator-header.h"
+	"Calculator-definition.cpp"
+	"Trigonometry.cpp"
+	"declarations.h"
+
+1600541486 c:\users\hp\desktop\desktop\new folder\calculator-program\caculator-header.h
+	<vector>
+
+1600541924 c:\users\hp\desktop\desktop\new folder\calculator-program\calculator-definition.cpp
+	<iostream>
+	<string.h>
+	<vector>
+	<cmath>
+	"declarations.h"
+
+1600541985 c:\users\hp\desktop\desktop\new folder\calculator-program\trigonometry.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cmath>
+	"declarations.h"
+
+1600540911 c:\users\hp\desktop\desktop\new folder\calculator-program\declarations.h
+

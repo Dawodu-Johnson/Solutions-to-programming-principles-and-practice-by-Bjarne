@@ -1,0 +1,15 @@
+Write a program that produces the sum of all the whitespace-separated integers in a text file. For example, bears: 17
+elephants 9 end should output 26.-------------- Build: Debug in Bjarne Chapter 10 (compiler: GNU GCC Compiler)---------------
+
+gcc.exe -Wall -fexceptions -g  -c "C:\Users\HP\Desktop\Desktop\New folder\Bjarne Chapter 10\main.cpp" -o obj\Debug\main.o
+g++.exe  -o "bin\Debug\Bjarne Chapter 10.exe" obj\Debug\main.o   
+Output file is bin\Debug\Bjarne Chapter 10.exe with size 119.24 KB
+Process terminated with status 0 (0 minute(s), 2 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 2 second(s))
+ 
+
+-------------- Run: Debug in Bjarne Chapter 10 (compiler: GNU GCC Compiler)---------------
+
+Checking for existence: C:\Users\HP\Desktop\Desktop\New folder\Bjarne Chapter 10\bin\Debug\Bjarne Chapter 10.exe
+Set variable: PATH=.;C:\Program Files\CodeBlocks\MinGW\bin;C:\Program Files\CodeBlocks\MinGW;C:\Windows\System32;C:\Windows;C:\Windows\System32\wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;C:\Users\HP\AppData\Roaming\npm;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin
+Executing: "C:\Program Files\CodeBlocks/cb_console_runner.exe" "C:\Users\HP\Desktop\Desktop\New folder\Bjarne Chapter 10\bin\Debug\Bjarne Chapter 10.exe"  (in C:\Users\HP\Desktop\Desktop\New folder\Bjarne Chapter 10\.)

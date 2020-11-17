@@ -1,0 +1,24 @@
+#include<iostream>
+#include<vector>
+#include<string>
+#include<cmath>
+using namespace std;
+
+
+double Trigonometry::toRads(double x)
+{
+     return (x*pi/180);
+
+}
+Token Trigonometry:: type(string t)    // returns a token type and the corresponding name
+{
+    if(t==sine)return Token(si,sine);
+    else if(t==cosine) return Token(co,cosine);
+    else if(t==tangent)return Token(ta,tangent);
+    else if(t==arcsine)return Token(as,arcsine);
+    else if(t==arccos)return Token(ac,arccos);
+    else if(t==arctan)return Token(art,arctan);
+    else return Token(name,t);
+}
+
+

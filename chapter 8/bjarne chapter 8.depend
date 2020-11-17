@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1590294765 source:c:\users\johnson\desktop\new folder\bjarne chapter 8\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<algorithm>
+
+1600689424 source:c:\users\hp\desktop\desktop\new folder\chapter 8\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<algorithm>
+
